@@ -7,7 +7,7 @@
 > A futuristic, gesture-free smart mirror dashboard that identifies users via facial recognition and serves personalized schedules, tasks, and environmental data in real-time.
 
 ## 📸 Screenshots
-![screenshots]()
+![screenshots](https://github.com/dy546/Magic-Mirror-Project/blob/f0ae68e0b033a002338ae9375925fd01ed559295/screenshot.png)
 
 ## 📖 About
 This project transforms a standard webcam and monitor into an intelligent "Magic Mirror." Unlike traditional smart mirrors that show static information, this system uses **Computer Vision** to detect who is looking at it.
@@ -36,8 +36,7 @@ When a user is recognized, the dashboard dynamically updates to show:
 
 ### 2. Clone the Repository
 ```bash
-git clone [https://github.com/yourusername/ai-smart-mirror.git](https://github.com/yourusername/ai-smart-mirror.git)
-cd ai-smart-mirror
+git clone [https://github.com/dy546/Magic-Mirror-Project.git](https://github.com/dy546/Magic-Mirror-Project.git)
 
 ```
 
@@ -103,7 +102,7 @@ python admin.py
 ## 📂 Project Structure
 
 ```text
-ai-smart-mirror/
+Magic Mirror/
 ├── known_faces/           # Folder for user reference images
 ├── admin.py               # CLI tool for managing tasks/alerts
 ├── main.py                # Core application (CV + Dashboard logic)
