@@ -1,0 +1,9 @@
+{
+    "global": {
+        "alerts": ["Welcome to the System", "Please run admin.py to assign tasks"]
+    },
+    "TEACHER": {
+        "alerts": [],
+        "tasks": ["Grade this project A+"]
+    }
+}
