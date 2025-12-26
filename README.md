@@ -36,7 +36,7 @@ When a user is recognized, the dashboard dynamically updates to show:
 
 ### 2. Clone the Repository
 ```bash
-git clone [https://github.com/dy546/Magic-Mirror-Project.git](https://github.com/dy546/Magic-Mirror-Project.git)
+git clone https://github.com/dy546/Magic-Mirror-Project.git
 
 ```
 
@@ -124,8 +124,8 @@ Magic Mirror/
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://www.google.com/search?q=https://github.com/yourusername/ai-smart-mirror/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/dy546/Magic-Mirror-Project/issues).
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](https://www.google.com/search?q=LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/dy546/Magic-Mirror-Project/blob/33aaff9f3f963a3a7e9484d1dc39cbdbb5316eb9/LICENSE) file for details.
